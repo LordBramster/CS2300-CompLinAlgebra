@@ -1,2 +1,2 @@
-# Comp-Linear-Algebra
-Linear-Alegra Algorithms
+# Computational Linear Algebra
+CS2300 Homework Projects
